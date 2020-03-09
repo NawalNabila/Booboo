@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CDCDC0</color>
+    <color name="colorPrimaryDark">#626D71</color>
+    <color name="colorAccent">#B38867</color>
+    <color name="colorSubTitle">#626D71</color>
+    <color name="blackseaweed">#231B12</color>
+    <color name="favorite">#DDBC95</color>
+    <color name="detail">#B38867</color>
+</resources>

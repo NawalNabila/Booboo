@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Booboo</string>
+    <string name="books_name">Nama Novel</string>
+    <string name="detail">Detail cerita di card</string>
+    <string name="btn_favorite">Favorit</string>
+    <string name="btn_read">Detail</string>
+    <string name="deskripsi">Deskripsi Cerita</string>
+    <string name="content_text">Disini isi deskripsi cerita</string>
+
+    <string name="genre">Genre</string>
+    <string name="reads">Reads</string>
+    <string name="parts">Parts</string>
+    <string name="author">Author</string>
+    <string name="author_name">disini nama author</string>
+
+    <string name="content_genre">disini genre</string>
+    <string name="content_reads">disini reads</string>
+    <string name="content_parts">disini parts</string>
+
+    <string name="btn_baca">Baca</string>
+
+    <string name="myname">Nawal Nabila</string>
+    <string name="email">nabil@mhs.unsyiah.ac.id</string>
+</resources>
